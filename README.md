@@ -1,8 +1,14 @@
-### Hi there 👋
+<div>
+<h2>### Hi there 😃</h2>
+
+I'm Daniel, a software engineer <i>currently<i/> based in Brazil.
+
+My main technologies are React and TypeScript, but I'm really language agnostic and would work with any technologies necessary if I needed to. 
+
+I think tech is more about different ways to achieve different goals, so I try not to get emotional about whatever I'm going to use in my projects. 
+
 
 <!--
-**danielflorencio/danielflorencio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +20,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div/>
+
+<div>
+<h3>These are some of the skills I have in my repertoire that I've been improving</h3>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+</div>
+
+<div>
+Redes sociais
+<div/>
