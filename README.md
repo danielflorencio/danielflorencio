@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <div>
 <h3>These are some of the skills in my repertoire that I've been improving</h3>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img height=30 width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
           
           
 </div>
