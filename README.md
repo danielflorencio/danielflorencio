@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 <div/>
 
 <div>
-<h3>These are some of the skills I have in my repertoire that I've been improving</h3>
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<h3>These are some of the skills in my repertoire that I've been improving</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+          
           
 </div>
 
