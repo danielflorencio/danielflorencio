@@ -1,7 +1,7 @@
 <div>
 <h2>### Hi there 😃</h2>
 
-I'm Daniel, a software engineer <i>currently<i/> based in Brazil.
+I'm Daniel, a software engineer <i>currently</i> based in Brazil.
 
 My main technologies are React and TypeScript, but I'm really language agnostic and would work with any technologies necessary if I needed to. 
 
