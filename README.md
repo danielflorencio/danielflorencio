@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img width="50" height="50" src="https://img.icons8.com/color/48/chakra-ui.png" alt="chakra-ui"/>
 </div>
 
 <div>
