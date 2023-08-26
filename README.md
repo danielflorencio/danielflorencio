@@ -3,7 +3,7 @@
 
 I'm Daniel, a software engineer <i>currently</i> based in Brazil.
 
-My main technologies are React and TypeScript, but I'm really language agnostic and would work with any technologies necessary if I needed to. 
+My main technologies are React and TypeScript, but I'm language agnostic would use any technology necessary to do the job. 
 
 I think tech is more about different ways to achieve different goals, so I try not to get emotional about whatever I'm going to use in my projects. 
 
